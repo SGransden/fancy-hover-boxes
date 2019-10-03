@@ -18,13 +18,8 @@ html {
   bottom: 0;
 }
 
-.hover-box-img {
-  filter: grayscale(100%);
-  transition: all .2s linear;
-}
-
 .hover-box:focus .hover-box-img,
-.hover-box-img {
+.hover-box:hover .hover-box-img {
   filter: grayscale(100%);
   transform: scale(1.1);
 }
