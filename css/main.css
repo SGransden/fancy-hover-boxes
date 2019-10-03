@@ -15,7 +15,7 @@ html {
 
 .hover-box:focus .hover-box-caption,
 .hover-box:hover .hover-box-caption {
-  bottom: 0
+  bottom: 0;
 }
 
 .hover-box-img {
