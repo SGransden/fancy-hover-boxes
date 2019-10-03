@@ -21,7 +21,7 @@ html {
 .hover-box:focus .hover-box-img,
 .hover-box-img {
   filter: grayscale(100%);
-  transition: scale(1.1);
+  transform: scale(1.1);
 }
 
 .hover-box:focus {
